@@ -1,0 +1,36 @@
+_repo: The-Ordeal-of-Richard-Feverel--A-History-of-a-Father-and-Son_34858
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+  editor:
+    agent_name: Chandler, Frank Wadleigh
+    alias: Chandler, Frank W.
+    birthdate: 1873
+    deathdate: 1947
+    gutenberg_agent_id: '37278'
+    url: http://www.gutenberg.org/2009/agents/37278
+description: Tale of adolescence and young love, written a century ago.
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34858'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Domestic fiction'
+title: 'The Ordeal of Richard Feverel: A History of a Father and Son'
+url: http://www.gutenberg.org/ebooks/34858
